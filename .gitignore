@@ -1,6 +1,7 @@
 *.classpath 
 *.project
 *.settings
-/newfolder /*
-/sample /*
-/test /*
+/newfolder/*
+/sample/*
+/test/*
+/myfolder/*
